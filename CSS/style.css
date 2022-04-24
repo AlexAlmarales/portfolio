@@ -604,6 +604,7 @@ header{
     }
     .hero__contact{
         margin: 0 10%;
+        padding: 10px 40px;
         margin-top: 60px;
         position: sticky;
     }
